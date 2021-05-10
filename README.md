@@ -1,10 +1,5 @@
 ### Hola 👋, soy Lau!
 
-<!--
-**Gordin-Flona/Gordin-Flona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Actualmente me desempeño como HR Data Analyst en el Registro Nacional de las Personas.
 - 🌱 Soy una entusiasta amateur de PYTHON.
 - 🤔 I’m l![descarga](https://user-images.githubusercontent.com/83974987/117708445-31048780-b1a6-11eb-9f65-cff455727d62.png)
